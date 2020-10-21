@@ -1,0 +1,11 @@
+[
+  {
+    "id": "soup_ketchup_ingredients",
+    "type": "requirement",
+    "components": [
+      [ [ "water", 1], [ "water_clean", 1 ] ],
+      [ [ "ketchup", 2 ] ],
+      [ [ "batter", 2, "LIST" ] ]
+    ]
+  }
+]
