@@ -15,7 +15,7 @@
     "description": "It smells of tomatoes, but it's ketchup.",
     "price": 400,
     "price_postapoc": 50,
-    "material": [ "ketchup" ],
+    "material": [ "tomato" ],
     "volume": "250 ml",
     "phase": "liquid",
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
