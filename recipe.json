@@ -13,6 +13,11 @@
     "batch_time_factors": [ 80, 4 ],
     "qualities": [ { "id": "BOIL", "level": 1 } ],
     "tools": [ [ [ "water_boiling_heat", 2, "LIST" ] ] ],
-    "components": [ [ [ "water_clean", 1 ], [ "water", 1 ] ], [ [ "ketchup", 1 ] ] ]
+    "components": [ 
+        [ [ "water_clean", 2 ], [ "water", 2 ] ], 
+        [ [ "ketchup", 4 ] ],
+        [ [ "batter", 1, "LIST" ] ]
+    ],
+    "charges": 2
   }
 ]
