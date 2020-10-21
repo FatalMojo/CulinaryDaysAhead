@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "dragon_survival",
+    "name": "Dragon Survival",
+    "authors": [ "Eirenex", "fatalmojo" ],
+    "description": "Surviving the dragon way",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.1",
+    "obsolete": false
+  }
+]
