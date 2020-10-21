@@ -6,6 +6,7 @@
     "category": "CC_FOOD",
     "subcategory": "CSC_FOOD_VEGGI",
     "skill_used": "cooking",
+    "autolearn": true,
     "difficulty": 0,
     "skills_required": [ "survival", 0 ],
     "time": "10 m",
