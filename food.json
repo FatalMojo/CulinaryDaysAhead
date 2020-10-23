@@ -68,5 +68,41 @@
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
     "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
     "fun": 0
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "omelette",
+    "name": { "str_sp": "omelette" },
+	"weight": "300 g",
+    "copy-from": "egg_chicken",
+    "color": "yellow",
+    "spoils_in": "2 days",
+    "symbol": "%",
+    "description": "delicious seasoned cuisine, made from beaten eggs.",
+    "price": 400,
+    "price_postapoc": 100,
+    "material": [ "egg" ],
+    "volume": "250 ml",
+    "charges": 2,
+    "flags": [ "EATEN_HOT", "FREEZERBURN" ],
+    "fun": 5
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "omelette_deluxe",
+    "name": { "str_sp": "deluxe omelettes" },
+	"weight": "350 g",
+    "copy-from": "egg_chicken",
+    "color": "yellow",
+    "spoils_in": "2 days",
+    "symbol": "%",
+    "description": "delicious seasoned cuisine, made from beaten eggs with delicious melting cheese filling inside.",
+    "price": 400,
+    "price_postapoc": 100,
+    "material": [ "egg", "cheese" ],
+    "volume": "250 ml",
+    "charges": 2,
+    "flags": [ "EATEN_HOT", "FREEZERBURN" ],
+    "fun": 8
   }
 ]

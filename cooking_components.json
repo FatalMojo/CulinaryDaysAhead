@@ -5,7 +5,7 @@
     "components": [
       [ [ "water", 1], [ "water_clean", 1 ] ],
       [ [ "ketchup", 2 ] ],
-      [ [ "batter", 2, "LIST" ] ]
+      [ [ "batter", 1, "LIST" ] ]
     ]
   },
   {
