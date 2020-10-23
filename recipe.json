@@ -175,8 +175,8 @@
     "time": "5 m",
     "autolearn": "true",
     "contained": true,
-    "using": [ [ "eggs_bird", 36 ] ],
     "components": [
+      [ [ "eggs_bird", 36, "LIST" ], [ "egg_reptile", 36 ] ],
       [ [ "jar_3l_glass", 1 ] ],
       [ [ "water_clean", 10 ] ],
       [ [ "material_quicklime", 20 ] ]
@@ -231,4 +231,4 @@
         [ "garlic_clove", 3 ],
         [ "dry_veggy", 1 ] ] ]
   }
-  ]
+]
