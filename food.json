@@ -44,5 +44,29 @@
     "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
     "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
     "fun": 5
+  },
+  {
+    "type": "COMESTIBLE",
+    "id": "eggs_glassed",
+    "name": "glassed eggs",
+    "//": "https://imgur.com/gallery/M4G4HMd",
+    "weight": "350 g",
+    "color": "red",
+    "spoils_in": "730 days 0 hours",
+    "container": "can_food",
+    "comestible_type": "EAT",
+    "symbol": "o",
+    "quench": 0,
+    "healthy": 1,
+    "calories": 350,
+    "description": "Eggs water glassed using lime water, they will last forever.",
+    "price": 400,
+    "price_postapoc": 50,
+    "material": [ "flesh" ],
+    "volume": "250 ml",
+    "phase": "liquid",
+    "flags": [ "EATEN_HOT", "USE_EAT_VERB" ],
+    "vitamins": [ [ "vitA", 7 ], [ "vitC", 10 ], [ "calcium", 1 ], [ "iron", 4 ] ],
+    "fun": 0
   }
 ]
