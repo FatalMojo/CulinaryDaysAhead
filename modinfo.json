@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "dragon_survival",
-    "name": "Dragon Survival",
+    "ident": "culinary_days_ahead",
+    "name": "Culinary Days Ahead",
     "authors": [ "Eirenex", "fatalmojo" ],
     "description": "Surviving the dragon way",
-    "category": "content",
+    "category": "items",
     "dependencies": [ "dda" ],
     "version": "0.1",
     "obsolete": false

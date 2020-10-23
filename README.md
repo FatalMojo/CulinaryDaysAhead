@@ -2,4 +2,5 @@
 
 ## Recipes
 
-ketchup soup
+- ketchup soup
+- hotdog soup
