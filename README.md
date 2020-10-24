@@ -5,3 +5,4 @@
 - ketchup soup
 - hotdog soup
 - glassed eggs
+- Omelettes / -Deluxe
